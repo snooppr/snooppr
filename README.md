@@ -23,5 +23,5 @@
 </details>
 
 <h3 align="left">Соцсети/связь:</h3>
-<a href="https://habr.com/ru/users/ne555/posts/" target="blank"><img align="center" src="https://habr.com/favicon.ico" alt="" height="30" width="30" /></a>
+<a href="[https://habr.com/ru/users/ne555/posts/](https://habr.com/ru/users/ne555/articles/)" target="blank"><img align="center" src="https://habr.com/favicon.ico" alt="" height="30" width="30" /></a>
 <a href="mailto:snoopproject@protonmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/9068/9068642.png" alt="" height="30" width="30" /></a>
