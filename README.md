@@ -15,7 +15,7 @@
 
 <a href="https://raw.githubusercontent.com/snooppr/snooppr/main/pleiades.png" target="blank"><img align="center" src="https://raw.githubusercontent.com/snooppr/snooppr/main/pleiades.png"/></a>  
 
-<a href="https://raw.githubusercontent.com/snooppr/snooppr/main/activity caleblat.png" target="blank"><img align="center" src="https://raw.githubusercontent.com/snooppr/snooppr/main/activity caleblat.gif"/></a>  
+<a href="https://raw.githubusercontent.com/snooppr/snooppr/main/activity caleblat.gif" target="blank"><img align="center" src="https://raw.githubusercontent.com/snooppr/snooppr/main/activity caleblat.gif"/></a>  
 
 <a href="https://raw.githubusercontent.com/snooppr/snooppr/main/workout.png" target="blank"><img align="center" src="https://raw.githubusercontent.com/snooppr/snooppr/main/workout.png"/></a>
 
